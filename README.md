@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola! 👋😀
+- 🌱 sigo aprendiendo network science, machine learning, data analysis and modelling  
+- 🔭 trabajo con datos y redes complejas en economía, finanzas y otros dominios
 
 <!--
 **sderaco/sderaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
